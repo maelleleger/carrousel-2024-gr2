@@ -39,3 +39,5 @@
 
        add_shortcode('carrousel', 'genere_html');
  ?>
+
+ <!-- wp_header() juste avant la balise fermeture-->
